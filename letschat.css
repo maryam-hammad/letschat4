@@ -1,0 +1,42 @@
+body{
+    background-image: url("1347408.webp");
+
+}
+
+#addroom_button{
+    background-color: #263548;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    color: #FFFFFF;
+}
+
+#heading1{
+    font-family: "Roboto Condensed";
+    font-size: 85px;
+}
+
+#heading2{
+    font-family: "Roboto Condensed";
+    font-size: 45px;
+}
+
+#room_input{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+#username_tag{
+    color: #FFFFFF;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
